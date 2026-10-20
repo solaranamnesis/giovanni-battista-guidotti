@@ -2,5 +2,5 @@
 
 English - Plain Text  
 English - PDF  
-Italian - Plain Text  
+[Italian - Plain Text](full-text-italian.md)  
 Italian - PDF  
