@@ -6,5 +6,5 @@ Public Domain Works by Giovanni Battista Guidotti (?-?).
 
 English - Plain Text  
 English - PDF  
-Italian - Plain Text  
+[Italian - Plain Text](sulle-pietre-cadute-borgo-s-donnino/full-text-italian.md)  
 Italian - PDF  
